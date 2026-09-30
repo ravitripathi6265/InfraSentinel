@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ InfraSentinel (Project Sentinel)
+# InfraSentinel (Project Sentinel)
 ### **AI-Powered Infrastructure Project Early-Warning & Decision Support System**
 
 [![React](https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -10,55 +10,55 @@
 [![SQLite](https://img.shields.io/badge/Database-SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.badge?style=for-the-badge)](LICENSE)
 
-*Built to safeguard national megaprojects under **PM GatiShakti**, **MoSPI**, and **PRAGATI** frameworks.*
+*Built to safeguard national megaprojects under PM GatiShakti, MoSPI, and PRAGATI frameworks.*
 
 </div>
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
-India commits hundreds of billions of dollars annually to central sector infrastructure—high-speed rail corridors, expressways, hydroelectric dams, and deepwater ports. However, traditional project monitoring has historically been **retrospective**—discovering delays and cost escalations only after public funds have evaporated.
+India commits hundreds of billions of dollars annually to central sector infrastructure—high-speed rail corridors, expressways, hydroelectric dams, and deepwater ports. However, traditional project monitoring has historically been retrospective—discovering delays and cost escalations only after public funds have evaporated.
 
-**SI Ignite (Project Sentinel)** is an end-to-end, predictive decision-support platform designed to transform infrastructure governance from **reactive audit into proactive prevention**. Powered by the **SIPRE v4.2 Predictive Risk Engine**, it identifies hidden execution friction, tracks capital burn-rate divergence, correlates external supply-chain shocks, and allows policymakers to simulate strategic interventions before committing capital.
+**InfraSentinel (Project Sentinel)** is an end-to-end, predictive decision-support platform designed to transform infrastructure governance from reactive audit into proactive prevention. Powered by the **SIPRE v4.2 Predictive Risk Engine**, it identifies hidden execution friction, tracks capital burn-rate divergence, correlates external supply-chain shocks, and allows policymakers to simulate strategic interventions before committing capital.
 
 ---
 
-## 🚀 Key Modules & Capabilities
+## Key Modules and Capabilities
 
-### 1. 📊 Executive Portfolio Command Center
+### 1. Executive Portfolio Command Center
 - **Live MoSPI Telemetry**: Real-time monitoring of Central Sector projects with aggregate metrics.
-- **Exposure Quantification**: Tracks over ₹3,12,000+ Cr in active cost escalations across sectors.
-- **Triage Categorization**: Automatic classification into **Critical**, **High**, **Moderate**, and **Low** risk cohorts.
+- **Exposure Quantification**: Tracks over Rs 3,12,000+ Cr in active cost escalations across sectors.
+- **Triage Categorization**: Automatic classification into Critical, High, Moderate, and Low risk cohorts.
 
-### 2. 🎯 Risk Radar (`/risk-radar`)
-- Multi-dimensional sorting and filtering across ministries (*Railways, Power, Road Transport & Highways, Petroleum*).
+### 2. Risk Radar (`/risk-radar`)
+- Multi-dimensional sorting and filtering across ministries (Railways, Power, Road Transport & Highways, Petroleum).
 - Search by project code, implementing agency, or geography.
 - Direct drill-down to forensic project-level audits.
 
-### 3. ⚙️ SIPRE v4.2 Predictive Risk Engine (`/forecasting`)
+### 3. SIPRE v4.2 Predictive Risk Engine (`/forecasting`)
 A transparent, multi-factor deterministic and stochastic trajectory model:
 - **Cost Escalation Risk (25%)**: Ratio of revised vs. sanctioned expenditure.
 - **Schedule Slippage Velocity (25%)**: Delay in months relative to original commissioning targets.
 - **Execution Drag & Burn Mismatch (35%)**: Divergence between actual physical completion % and financial burn-rate %, combined with milestone delay penalties.
 - **External Shock Vulnerability (15%)**: Real-time risk scoring derived from verified external intelligence.
 
-### 4. 📰 Real-Time News Intelligence (`/news`)
-- Ingests and processes public notices, tribunal clearances, land acquisition disputes, and monsoon/vendor disruptions.
+### 4. Real-Time News Intelligence (`/news`)
+- Ingests and processes public notices, tribunal clearances, land acquisition disputes, and monsoon or vendor disruptions.
 - Automatically maps unstructured intelligence directly to affected project IDs (e.g., `P-1001`, `P-1002`).
 
-### 5. 🎛️ Counterfactual "What-If" Scenario Simulator (`/simulator`)
+### 5. Counterfactual "What-If" Scenario Simulator (`/simulator`)
 - Interactive policy sandbox for Project Directors and ministry review taskforces.
-- Dynamically adjust **Physical Progress**, **Revised Budget**, and **Delayed Milestones** via real-time sliders.
+- Dynamically adjust Physical Progress, Revised Budget, and Delayed Milestones via real-time sliders.
 - Computes instant mathematical risk deltas to validate recovery strategies before committing field resources.
 
-### 6. 🤖 Domain-Grounded AI Assistant & Executive Briefings (`/ai-assistant`, `/reports`)
+### 6. Domain-Grounded AI Assistant and Executive Briefings (`/ai-assistant`, `/reports`)
 - Contextually grounded AI assistant querying live MoSPI project data for instant root-cause diagnostics.
-- One-click generation of print-ready, formatted **Executive Briefing Memos** for the Cabinet Secretariat and Empowered Group of Secretaries.
+- One-click generation of print-ready, formatted Executive Briefing Memos for the Cabinet Secretariat and Empowered Group of Secretaries.
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```mermaid
 graph TD
@@ -82,7 +82,7 @@ graph TD
 
 ---
 
-## 💻 Tech Stack & Engineering Highlights
+## Tech Stack and System Specification
 
 | Layer | Technology | Details |
 | :--- | :--- | :--- |
@@ -95,7 +95,7 @@ graph TD
 
 ---
 
-## ⚡ Quick Start & Installation
+## Quick Start and Installation
 
 ### Prerequisites
 - **Node.js** (v18 or higher recommended; verified on Node v26)
@@ -129,8 +129,8 @@ npm run seed
 npm run dev
 ```
 
-- **Frontend App**: [http://localhost:5173](http://localhost:5173)
-- **Backend API**: [http://localhost:3001](http://localhost:3001)
+- **Frontend App**: http://localhost:5173
+- **Backend API**: http://localhost:3001
 
 ### 4. Run Automated Test Suite
 ```bash
@@ -140,23 +140,19 @@ npm test
 
 ---
 
-## 🔑 Pre-Configured Demo Credentials
-
-For quick testing during evaluations or interviews:
+## Pre-Configured Demo Credentials
 
 | Role | Username / Email | Password | Access Level |
 | :--- | :--- | :--- | :--- |
 | **Project Director** | `tipathiravi205@gmail.com` | `ravi@6265` | Full Executive & Scenario Simulation |
 | **Administrator** | `admin` | `password` | Complete System Monitoring |
 
-*(You can also click the pre-filled **Quick Login** pills directly on the login page.)*
-
 ---
 
-## 📁 Repository Directory Structure
+## Repository Directory Structure
 
 ```plaintext
-PS103-Project-Sentinel/
+InfraSentinel/
 ├── backend/
 │   ├── controllers/         # API business logic (Auth, Projects, Risk, AI)
 │   ├── data/                # SQLite database and authentic seed datasets
@@ -186,16 +182,7 @@ PS103-Project-Sentinel/
 
 ---
 
-## 🎯 Placement / Interview Talking Points
-
-- **Full-Stack Competency**: Built with modern React 19, Tailwind CSS v4, and Node.js Express architecture.
-- **Deterministic & Explainable Modeling**: Designed an explainable scoring formula rather than an opaque black box, allowing auditors to inspect the exact drivers of every project alert.
-- **Data Sovereignty & Security**: Zero reliance on external proprietary databases; all project intelligence and execution simulations can run completely on-premise on sovereign infrastructure.
-- **Real-World Governance Alignment**: Aligned directly with the mandates of PM GatiShakti, PRAGATI reviews, and MoSPI guidelines.
-
----
-
-## 👨‍💻 Author
+## Author
 
 **Ravi Tripathi**  
 - **GitHub**: [@ravitripathi6265](https://github.com/ravitripathi6265)  
