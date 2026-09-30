@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ SI Ignite — Project Sentinel (PS-103)
+# 🛡️ InfraSentinel (Project Sentinel)
 ### **AI-Powered Infrastructure Project Early-Warning & Decision Support System**
 
 [![React](https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -103,8 +103,8 @@ graph TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ravitripathi6265/PS103-Project-Sentinel.git
-cd PS103-Project-Sentinel
+git clone https://github.com/ravitripathi6265/InfraSentinel.git
+cd InfraSentinel
 ```
 
 ### 2. Install Dependencies
