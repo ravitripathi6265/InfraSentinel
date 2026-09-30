@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Undersea tunneling on 21km Thane Creek stretch advances as NHSRCL deploys custom TBMs",
+    "source": "Railway Gazette International",
+    "date": "2026-09-02",
+    "category": "Engineering & Construction",
+    "location": "Maharashtra",
+    "sector": "Railways",
+    "relevanceScore": 0.92,
+    "impactLevel": "High",
+    "affectedProjects": "[\"P-1001\"]",
+    "explanation": "Complex geological strata under Thane Creek requires slower TBM advance rates, critical path for Mumbai terminal commissioning."
+  },
+  {
+    "title": "Subansiri Lower Hydro Unit 4 achieves commercial operation; remaining 4 units on track for 2026 completion",
+    "source": "Power Grid Reporter",
+    "date": "2026-08-28",
+    "category": "Commissioning",
+    "location": "Arunachal Pradesh, Assam",
+    "sector": "Power",
+    "relevanceScore": 0.88,
+    "impactLevel": "Moderate",
+    "affectedProjects": "[\"P-1002\"]",
+    "explanation": "NHPC successfully synchronizes 1,000 MW capacity with national grid; dam structure reinforces flood moderation in Brahmaputra basin."
+  },
+  {
+    "title": "NHAI accelerates Package 17 works to complete JNPT port spur on Delhi-Mumbai Expressway",
+    "source": "Infrastructure India Today",
+    "date": "2026-08-14",
+    "category": "Right of Way & Civil Works",
+    "location": "Maharashtra",
+    "sector": "Roads & Highways",
+    "relevanceScore": 0.84,
+    "impactLevel": "Moderate",
+    "affectedProjects": "[\"P-1003\"]",
+    "explanation": "Final southern connectivity stretch targeting completion to divert heavy cargo traffic away from congested Mumbai suburban roads."
+  },
+  {
+    "title": "Full 1,506-km Western Dedicated Freight Corridor commissioned following Sanand-JNPT stretch opening",
+    "source": "Logistics & Freight Weekly",
+    "date": "2026-09-08",
+    "category": "Operationalization",
+    "location": "Gujarat, Maharashtra",
+    "sector": "Railways",
+    "relevanceScore": 0.95,
+    "impactLevel": "Low",
+    "affectedProjects": "[\"P-1004\"]",
+    "explanation": "Direct double-stack container train transit between northern industrial hubs and JNPT reduces transit times by over 50%."
+  },
+  {
+    "title": "Godavari seasonal discharge prompts technical safety audit of Polavaram spillway and diaphragm wall",
+    "source": "Water Resources Monitor",
+    "date": "2026-08-20",
+    "category": "Hydrological Risk",
+    "location": "Andhra Pradesh",
+    "sector": "Water Resources",
+    "relevanceScore": 0.91,
+    "impactLevel": "High",
+    "affectedProjects": "[\"P-1005\"]",
+    "explanation": "High velocity flood water scouring requires reinforced vibro-stone columns before Phase-1 impoundment to +41.15m level."
+  },
+  {
+    "title": "CCEA approves enhanced equity support of ₹8,962 Cr for HPCL Rajasthan Refinery (HRRL) ahead of SCOD",
+    "source": "PetroChem Express",
+    "date": "2026-07-30",
+    "category": "Financial & Equity",
+    "location": "Rajasthan",
+    "sector": "Petroleum & Petrochemicals",
+    "relevanceScore": 0.89,
+    "impactLevel": "Moderate",
+    "affectedProjects": "[\"P-1006\"]",
+    "explanation": "Cabinet approval clears financial closure for final utility packages and ethylene cracker integration at Pachpadra complex."
+  },
+  {
+    "title": "RVNL achieves 40th tunnel breakthrough across Main Central Thrust on Rishikesh-Karnaprayag alignment",
+    "source": "Tunnels & Underground Space Review",
+    "date": "2026-09-04",
+    "category": "Geotechnical",
+    "location": "Uttarakhand",
+    "sector": "Railways",
+    "relevanceScore": 0.94,
+    "impactLevel": "High",
+    "affectedProjects": "[\"P-1007\"]",
+    "explanation": "Over 205 km of total tunneling completed; seismic sensors and drainage adits installed to counter subterranean aquifer pressures."
+  },
+  {
+    "title": "BMRCL conducts dynamic train trials on Yellow Line; civil works on Airport Blue Line cross 60%",
+    "source": "Urban Transit Digest",
+    "date": "2026-08-11",
+    "category": "Rolling Stock & Civil",
+    "location": "Karnataka",
+    "sector": "Urban Transport",
+    "relevanceScore": 0.82,
+    "impactLevel": "Low",
+    "affectedProjects": "[\"P-1008\"]",
+    "explanation": "Arrival of indigenous trainsets from Titagarh-CRRC joint venture enables driverless CBTC system validation."
+  },
+  {
+    "title": "Zojila Tunnel main tube breaks through eastern portal at Minamarg, cutting winter isolation for Ladakh",
+    "source": "Border Roads & Defense Logistics",
+    "date": "2026-06-15",
+    "category": "Strategic Infrastructure",
+    "location": "Jammu & Kashmir, Ladakh",
+    "sector": "Roads & Highways",
+    "relevanceScore": 0.93,
+    "impactLevel": "Low",
+    "affectedProjects": "[\"P-1011\"]",
+    "explanation": "Historic excavation milestone reached despite extreme high-altitude alpine conditions (-25°C), commissioning slated for 2028."
+  }
+]

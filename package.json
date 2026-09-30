@@ -1,0 +1,13 @@
+{
+  "name": "ps103-project-sentinel",
+  "version": "1.0.0",
+  "description": "SI Ignite / Project Sentinel - Infrastructure Early-Warning & Decision Support System",
+  "scripts": {
+    "dev": "node dev.js",
+    "test": "node test_app.js",
+    "seed": "npm --prefix backend run seed",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev"
+  },
+  "keywords": ["infrastructure", "sentinel", "early-warning", "pm-gatishakti", "risk-engine"]
+}
